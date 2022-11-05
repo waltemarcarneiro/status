@@ -2,6 +2,16 @@
     "short_name": "Waltemar App",
     "name": "Waltemar App",
     "version": "1.0.0",
+    "start_url": "/index.html",
+    "background_color": "#eeeeee",
+    "display": "standalone",
+    "theme_color": "#ff4444",
+    "dir": "ltr",
+    "scope": "/",
+    "lang": "pt",
+    "orientation": "portrait",
+    "description": "Teste PWA",
+    "categories": ["productivity"]
     "icons": [
         {
             "src": "images/icon192.png",
@@ -14,8 +24,5 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/index.html",
-    "background_color": "#eeeeee",
-    "display": "standalone",
-    "theme_color": "#ff4444"
+    
 }
