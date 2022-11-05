@@ -1,0 +1,21 @@
+{
+    "short_name": "5ProShort",
+    "name": "5ProShort",
+    "version": "1.0.0",
+    "icons": [
+        {
+            "src": "imgs/icon192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "imgs/icon512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/home-screen/",
+    "background_color": "#eeeeee",
+    "display": "standalone",
+    "theme_color": "#ff4444"
+}
