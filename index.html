@@ -4,7 +4,7 @@
         <meta charset="utf-8" lang="pt-BR">
 		<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
         <title>Add Home-Screen</title>
-        <link rel="icon" href="imgs/icon512.png" type="image/png" sizes="16x16">
+        <link rel="icon" href="images/icon512.png" type="image/png" sizes="16x16">
         <link rel="manifest" href="manifest.json">
         <!-- [ Theme Color ] -->
         <!-- Chrome, Firefox OS and Opera -->
@@ -40,7 +40,7 @@
             <h1 style="text-align:center;font-weigth:400;">Add Home-Screen</h1>
             <h2 style="text-align:center;font-weight:500;">Canapum Creative</h2>
             <center>
-                <img src="imgs/html_css.png" style="width:70%"/>
+                <img src="images/html_css.png" style="width:70%"/>
             </center>
         </div>
         <div style="position: fixed; bottom: 10px; right: 20px;">
@@ -50,7 +50,7 @@
                 <script type="text/javascript">
                     if ('serviceWorker'in navigator) {
                         window.addEventListener('load', function() {
-                            navigator.serviceWorker.register('/home-screen/sw.js').then(function(registration) {
+                            navigator.serviceWorker.register('/sw.js').then(function(registration) {
                                 // Registration was successful
                                 console.log('ServiceWorker registration successful with scope: ', registration.scope);
                             }, function(err) {
