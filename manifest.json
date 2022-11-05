@@ -2,12 +2,12 @@
     "short_name": "Waltemar App",
     "name": "Waltemar App",
     "version": "1.0.0",
-    "start_url": "status/index.html",
+    "start_url": "/status/index.html",
     "background_color": "#eeeeee",
     "display": "standalone",
     "theme_color": "#ff4444",
     "dir": "ltr",
-    "scope": "/",
+    "scope": "/status",
     "lang": "pt",
     "orientation": "portrait",
     "description": "Teste PWA",
@@ -24,5 +24,4 @@
             "sizes": "512x512"
         }
     ],
-    
-}
+ }
