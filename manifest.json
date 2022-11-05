@@ -7,7 +7,7 @@
     "display": "standalone",
     "theme_color": "#ff4444",
     "dir": "ltr",
-    "scope": "/status",
+    "scope": "/",
     "lang": "pt",
     "orientation": "portrait",
     "description": "Teste PWA",
