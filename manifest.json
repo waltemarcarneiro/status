@@ -11,7 +11,7 @@
     "lang": "pt",
     "orientation": "portrait",
     "description": "Teste PWA",
-    "categories": ["productivity"]
+    "categories": ["productivity"],
     "icons": [
         {
             "src": "images/icon192.png",
