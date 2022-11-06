@@ -1,11 +1,11 @@
 body {
-  background-color: #3367D6;
-  color: white;
+  background-color: #FAC81F;
+  color: #000000;
   font-family: Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 a, a:visited {
-  color: white;
+  color: #000000;
 }
 
 h1, h2 {
