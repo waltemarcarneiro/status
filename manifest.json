@@ -29,7 +29,7 @@
       "type": "image/png"
     },
     {
-      "src": "https://via.placeholder.com/512",
+      "src": "https://raw.githubusercontent.com/waltemarcarneiro/status/main/images/splash512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
