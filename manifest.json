@@ -1,7 +1,7 @@
 {
-  "short_name": "Weather",
-  "name": "Weather - Do I need an umbrella?",
-  "description": "Weather forecast information",
+  "short_name": "TESTE",
+  "name": "TESTE",
+  "description": "TESTE PWA",
   "icons": [
     {
       "src": "https://via.placeholder.com/48",
@@ -34,9 +34,9 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "/status/index.html",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/status",
   "theme_color": "#3367D6"
 }
