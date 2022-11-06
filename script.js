@@ -2,7 +2,15 @@ const divInstall = document.getElementById('installContainer');
 const butInstall = document.getElementById('butInstall');
 
 /* Put code here */
-
+window.addEventListener('beforeinstallprompt', (event) => {
+    // Impedir que o mini-infobar apareça no celular.
+    event.preventDefault();
+    console.log('👍', 'beforeinstallprompt', event);
+    // Esconder o evento para que possa ser acionado mais tarde.
+    window.deferredPrompt = event;
+    // Remover a classe 'oculta' do contêiner do botão de instalação.
+    divInstall.classList.toggle('hidden', false);
+  });
 
 
 /* Only register a service worker if it's supported */
