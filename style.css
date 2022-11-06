@@ -22,7 +22,7 @@ h1, h2 {
   display: flex;
   justify-content: center;
   width: 100%;
-  text-align: center;
+  
 }
 
 #installContainer button {
@@ -32,5 +32,5 @@ h1, h2 {
   color: #fff;
   font-size: 1em;
   padding: 0.75em;
-  width: 90%; 
+   
 }
