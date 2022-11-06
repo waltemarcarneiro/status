@@ -19,10 +19,11 @@ h1, h2 {
 #installContainer {
   position: absolute;
   bottom: 1em;
+  display: flex;
   justify-content: center;
   width: 100%;
-  display: inline-block;
-  
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #installContainer button {
@@ -32,5 +33,5 @@ h1, h2 {
   color: #fff;
   font-size: 1em;
   padding: 0.75em;
-  width: 80%; 
+  width: 90%; 
 }
