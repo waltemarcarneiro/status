@@ -1,7 +1,7 @@
 {
-  "short_name": "TEST",
-  "name": "TEST",
-  "description": "TEST PWA",
+  "short_name": "Yandex App",
+  "name": "Yandex",
+  "description": "Yandex Teste",
   "icons": [
     {
       "src": "https://via.placeholder.com/48",
