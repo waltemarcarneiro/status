@@ -37,6 +37,6 @@
   "start_url": "/status/index.html",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/status",
   "theme_color": "#3367D6"
 }
