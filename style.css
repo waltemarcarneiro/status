@@ -27,6 +27,7 @@ h1, h2 {
 #installContainer button {
   background-color: inherit;
   border: 2px solid #06c;
+  border-radius: 20px;
   color: #06c;
   font-size: 1em;
   padding: 0.75em;
