@@ -17,13 +17,12 @@ h1, h2 {
 }
 
 #installContainer {
-  position: absolute;
+  position: relative;
   bottom: 1em;
-  display: block;
   justify-content: center;
   width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 #installContainer button {
