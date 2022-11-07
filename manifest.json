@@ -89,10 +89,10 @@
       }
     ],
     "theme_color": "#FAC81F",
-    "start_url": "/status/index.html",
+    "start_url": "/status/",
     "background_color": "#e5e7eb",
     "display": "standalone",
-    "scope": "/status",
+    "scope": "/status/",
     "categories": [
       "business"
     ]
